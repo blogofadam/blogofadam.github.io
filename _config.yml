@@ -1,11 +1,11 @@
 # Site settings
-title: blogOfAdam
+title: blogofAdam
 description: Carbon based hardware running Human OS2.0 rooted, optimized, some bugs. Ally, amigo.
 baseurl: "/blogofadam.github.io" # the subpath of your site, e.g. /blog
 # url: "" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Adam B
+username: blogofAdam
 user_description: Carbon based hardware running Human OS2.0 rooted, optimized, some bugs. Ally, amigo.
 user_title: Shit Poster
 email: anon@anon.com
